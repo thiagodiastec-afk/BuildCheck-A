@@ -1,0 +1,7 @@
+{
+  "name": "BuildCheck AI",
+  "description": "Auditoria de compatibilidade de hardware, dimensionamento por jogo e software profissional com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
